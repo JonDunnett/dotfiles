@@ -36,6 +36,8 @@ nnoremap <leader>h :wincmd h<CR>
 nnoremap <leader>j :wincmd j<CR>
 nnoremap <leader>k :wincmd k<CR>
 nnoremap <leader>l :wincmd l<CR>
+nnoremap <leader>v :wincmd v<CR>
+nnoremap <leader>s :wincmd s<CR>
 
 nnoremap <leader>H :wincmd H<CR>
 nnoremap <leader>J :wincmd J<CR>
